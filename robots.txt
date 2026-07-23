@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agentrisk.phasetransitions.ai/sitemap.xml

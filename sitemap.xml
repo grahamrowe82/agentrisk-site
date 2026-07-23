@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- One page, one URL. Hand-kept rather than generated: adding
+     @astrojs/sitemap for a single-page site is more machinery than the
+     site has content. Add entries here if the guide ever splits. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://agentrisk.phasetransitions.ai/</loc>
+  </url>
+</urlset>
