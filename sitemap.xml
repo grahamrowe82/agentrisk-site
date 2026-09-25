@@ -1,9 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- One page, one URL. Hand-kept rather than generated: adding
-     @astrojs/sitemap for a single-page site is more machinery than the
-     site has content. Add entries here if the guide ever splits. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://agentrisk.phasetransitions.ai/</loc>
-  </url>
+  <url><loc>https://agentrisk.phasetransitions.ai/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/where/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/where/bought/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/where/wired/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/where/built/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-01-prompt-injection/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-02-excessive-agency-and-permissions/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-03-insecure-tool-use/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-04-identity-and-delegation-gaps/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-05-memory-and-context-poisoning/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-06-cascading-actions/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-07-hallucinated-facts-real-actions/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/failure-modes/fm-08-unaudited-operation/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/hf-openai-2026/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/medicare-portal-2026/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/air-canada-chatbot-2024/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/ai-fabricated-citations/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/replit-agent-database-deletion-2025/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/ai-agent-traps-deepmind-2026/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/jadepuffer-2026/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/deadbugz-mcp-2026/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/incidents/gemini-eval-2026/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/vibecoding/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/careful-adoption-of-agentic-ai-services/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/managing-the-cyber-risk-of-agentic-ai/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/mcp-specification-2026-07-28-release/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/mcp-top-10/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/secure-mcp-server-development/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/third-party-mcp-servers-cheatsheet/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/mcp/mcp-security-checklist/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/careful-adoption-of-agentic-ai-services/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/etsi-ts-104-223-en-304-223/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/aiuc-1/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/owasp-aisvs/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/csa-ai-controls-matrix/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/owasp-top-10-lists/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/nist-ai-rmf/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/iso-iec-42001/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/deployer-ai-risk-register/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/frameworks/community-checklists/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/aiuc/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/armilla/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/munich-re-aisure/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/mayflower-hadron/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/hsb-munich-re/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/insurance/testudo/</loc></url>
+  <url><loc>https://agentrisk.phasetransitions.ai/glossary/</loc></url>
 </urlset>
